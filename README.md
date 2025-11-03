@@ -71,7 +71,3 @@ src/
 - Introduce Storybook + design tokens to document the UI system.
 - Set up CI (lint + type-check + test + build) via GitHub Actions.
 - Add richer error handling and toast notifications for mutations.
-
-## 📄 License
-
-MIT — feel free to use and adapt for your own projects. A shout-out is always appreciated if you showcase it in a portfolio! 😊
